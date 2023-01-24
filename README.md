@@ -10,3 +10,4 @@ Description of the files inside the repoditory:
 - properties.csv --> table of the listed properties
 - tenants.csv --> table of the listed tenants
 - reservations.csv --> table of the listed reservations
+- rental_management_app.pptx --> presentation of the project foundamentals
