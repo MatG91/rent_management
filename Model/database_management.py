@@ -27,7 +27,7 @@ class Database:
 data = (3, 'Matteo')
 
 db = Database('prova')
-# db.create_table('Tenants', 'id integer, name text')
+db.create_table('Tenants', 'id integer, name text')
 db.insert_data('Tenants', data)
 print(db.fetch_data('Tenants'))
 
